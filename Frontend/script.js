@@ -1,5 +1,5 @@
 //const api_url = "<heroku_app_url>"
-const api_url = "https://anasproject.herokuapp.com/user"
+const api_url = "https://rakeshproject1.herokuapp.com/user"
 function loadData(records = []) {
 var table_data = "";
 for(let i=0; i<records.length; i++) {
